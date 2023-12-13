@@ -1,0 +1,8 @@
+1. Give your N and K as input in input.txt with one space between them.
+
+2. Run the code in VScode or terminal
+(if terminal:
+gcc address_of_C_file -o file
+./file
+)
+
